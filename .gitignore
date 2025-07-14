@@ -1,0 +1,21 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore OS/mac files
+.DS_Store
+
+# Ignore build output
+dist/
+build/
+
+# Ignore specific file
+secrets.txt
+
+# Ignore all .zip files
+*.zip
