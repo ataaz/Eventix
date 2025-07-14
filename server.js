@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
   }
 });
 
-// Import models
+/// Import models
 require('./models/User');
 require('./models/Store');
 require('./models/Event');
